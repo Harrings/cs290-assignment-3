@@ -10,13 +10,12 @@
 
 function returnObjectLiteral() {
   //your code here
-	return 
-	{
-		type: 'Goldfish',
-		brand: 'Pepperidge Farm',
-		flavor: 'Cheddar',
-		count: 2000
-	};
+  return {
+    type: 'Goldfish',
+    brand: 'Pepperidge Farm',
+    flavor: 'Cheddar',
+    count: 2000
+  };
   //end your code
 }
 

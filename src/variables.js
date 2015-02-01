@@ -46,7 +46,7 @@ Output:
 return true if c is null, false otherwise
 */
 function isNull(c) {
-  if(c == null && c !== undefined))
+  if((c == null) && (c !== undefined))
   {
     return true;
   }

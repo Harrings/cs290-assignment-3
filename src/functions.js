@@ -13,8 +13,7 @@
 */
 
 //your code here
-uselessFunction()
-{
+function uselessFunction() {
   return null;
 }
 //end your code
@@ -81,8 +80,7 @@ function GitLog(hash, date, message) {
 */
 
 //your code here
-function parseGit(logArray) 
-{
+function parseGit(logArray) {
   var GitArr = [];
   for (var i = 0; i < logArray.length; i++) {
 
