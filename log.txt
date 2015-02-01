@@ -1,1 +1,27 @@
-You log goes in this  file.
+Start: Sun, 25 Jan 2015 12:30:00 -0800
+End: Sun, 25 Jan 2015 14:05:35 -0800
+Tasks: Read over assignment, as well as setting up new github directory and planning out how to approach part 1.
+
+I had a sereis of Family/Medical Issues during the previous two weeks that lead to me only being able to start part 1 on January 30th and combined with my other class work I was unable to complete assignment 4. I was also away from my main desktop until Feb 1st so I was not able to commit a git until then.
+
+
+Start: Fri, 30 Jan 2015 17:35:00 -0800
+End: Fri, 30 Jan 2015 19:05:42 -0800
+Tasks: Worked on variable file and reread about dynamic casting.
+
+
+
+Start: Sat, 31 Jan 2015 8:07:00 -0800
+End: Sat, 31 Jan 2015 12:30:28 -0800
+Tasks: Finished variable and functions file and started object file.
+
+
+
+
+Start: Sat, 31 Jan 2015 15:45:00 -0800
+End: Sat, 31 Jan 2015 19:07:48 -0800
+Tasks: Finished object file.
+
+Start: Sun, 1 Feb 2015 8:15:00 -0800
+End: Sun, 1 Feb 2015 10:30:25 -0800
+Tasks: Fixed syntax errors and debugging of object file and commited to git.
