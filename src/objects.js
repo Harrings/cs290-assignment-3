@@ -50,7 +50,7 @@ function MessageLog(user)
   this.receivedLog = [];
   this.sent = 0;
   this.logMessage = function(messageText, direction) {
-    if (direction == 0) {
+    if (direction == 1) {
       this.receivedLog[this.receivedLog.length] = messageText;
     }
 	else {
