@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<script src='3part2.js'></script>
+	<title>Github API search</title>
+</head>
+<body>
+	<section>
+	<header>
+	<h3>Saved</h3>
+	</header>
+		<ul id='show-favorite'>
+		</ul>
+	</section>
+	<section>
+	<header>
+	<h3>Search Result</h3>
+	</header>
+		<ul id="show-query">
+		</ul>
+	
+	<form class='search-con' action="" method="GET">
+		
+		<label>JSON</label>
+		<input type='checkbox' name = 'JSON' value='JSON' id='JSON'>
+		
+		<label>SQL</label>
+		<input type='checkbox' name = 'SQL' value='SQL' id='SQL'>
+		
+		<label>Python</label>
+		<input type='checkbox' name='Python' value='Python' id='Python'>
+		
+		<label>Javascript</label>
+		<input type='checkbox' name = 'Javascript' value='Javascript' id='Javascript'>
+		
+		<input type='button' name='CheckGist' onclick='getData()' value='Search'>
+	</form>
+	
+	<form class='dd'>
+		<label>Pages to Display (30 results per page)</label>
+		<select name='numbpagess' id='itemperpage'>
+		<option value='1'>1</option>
+		<option value='2'>2</option>
+		<option value='3'>3</option>
+		<option value='4'>4</option>
+		<option value='5'>5</option>
+	</form>
+	
+
+	
+	</section>
+	
+</body>
+</html>
